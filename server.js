@@ -10,7 +10,6 @@ app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
 app.get('/', (req, res) => {
-  res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8080');
   res.render('index')
 })
 
