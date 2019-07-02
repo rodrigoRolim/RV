@@ -21,7 +21,7 @@ Esse é código onde está configurado o servidor node, por meio do qual a aplic
 
 ##### Link de acesso à aplicação
 
-link para a [RV](https://infinite-sea-95325.herokuapp.com/ "clique aqui para ver, professor") disponiblizada no heroku.
+link para a [RV](https://infinite-sea-95325.herokuapp.com/ "clique aqui para ver, professor") disponiblizada no heroku. Acesse-o de seu celular e aponte a camera para o marcador abaixo.
 
 ##### marcador usado
 
