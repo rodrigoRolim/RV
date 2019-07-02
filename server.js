@@ -30,6 +30,6 @@ app.get('/', (req, res) => {
   res.render('index')
 })
 
-app.listen(3000, () => {
+app.listen(process.env.PORT, () => {
   console.log('Listening on port 8080')
 })
