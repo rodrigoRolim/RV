@@ -1,6 +1,7 @@
 **Rodrigo Rolim Veras**
 **1694111**
-****
+**Kamilla dallman**
+
 #### Realidade Aumentada Mobile
 
 Essa aplicação de realidade aumentada foi feita em javascript na plataforma node. 
