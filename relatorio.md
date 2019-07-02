@@ -23,6 +23,7 @@ Esse é código onde está configurado o servidor node, por meio do qual a aplic
 
 link para a [RV](https://infinite-sea-95325.herokuapp.com/ "clique aqui para ver, professor") disponiblizada no heroku. Acesse-o de seu celular e aponte a camera para o marcador abaixo.
 
+Obs: Como esta sendo usado a versão gratuita para teste deste servidor, após um tempo de inatividade, o heroku derruba a aplicação.
 ##### marcador usado
 
 ![hiro](hiro.png)
